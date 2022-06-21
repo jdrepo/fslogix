@@ -1,3 +1,5 @@
+## Configure FSLogix for access to AAD-joined Storage Accounts from AAD-joined Desktops
+
 [CmdletBinding()]
 param (
     [Parameter()]
